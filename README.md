@@ -14,5 +14,6 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Comments:
+Undo/Redo options are not available to perform those actions
+Code for them exists
